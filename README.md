@@ -20,10 +20,11 @@ This class is very simple to use, you need to simply include the api.class.php f
   
   // Send request to the API
   $Fuloos->_get_daemon_info();
+  
 
 ```
 
-Now the fuloos rpc api class is ready to do one of two things.
+Now the Fuloos RPC API class is ready to do one of two things.
 
 ### Error Catcher
 
